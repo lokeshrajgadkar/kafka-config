@@ -3,3 +3,4 @@
 ---
 ## [1.0.0-RC] - Not Released
 1. Added the initial Kafka configs.
+2. Added Serialization & Serialization properties in dev yml.
